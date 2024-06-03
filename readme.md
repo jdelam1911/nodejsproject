@@ -12,7 +12,6 @@ To be able to have a hastle free method of creating a readme.md file without sea
 
 ## Links
 
-
 # License 
 
 Please refer to the repo!
